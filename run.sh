@@ -1,0 +1,1 @@
+python main.py --config configs/cResNet18-cifar10.yaml --multigpu 1
